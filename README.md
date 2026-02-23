@@ -32,5 +32,3 @@ This repository is a complete collection of SQL learning materials designed to t
 - Stored procedures and views
 - Real-world practice questions
 
-
-## Repository Structure
